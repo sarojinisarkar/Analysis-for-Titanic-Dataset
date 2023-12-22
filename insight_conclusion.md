@@ -1,5 +1,5 @@
 ## Insights:
-1.
+After analyzing the historical dataset, I discovered that most of the survived passengers are female of age group (21-31) and they were from Southampton. 
 
 
 
