@@ -1,5 +1,7 @@
 ## SUrvival rate based on P class and gender:
 
+Upon analysing the survival rates based on passenger class with respect to gender using pivot table and bar graph, discovered that first-class female passengers had the highest survival rate , closely followed by third-class female passengers . Conversely, second-class passengers had the lowest survival rate.
+
 
 
 
